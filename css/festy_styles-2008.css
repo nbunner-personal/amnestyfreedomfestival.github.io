@@ -1,0 +1,61 @@
+/* @group common and main structure */
+body, html {margin: 0; padding: 0;}
+body {background: #000; color: #f3f3ef; font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif; text-align: center; font-size: 100.1%;}
+
+#container {width: 700px; padding: 120px 0 100px 200px; background: url(../images/backgrounds/back_candle.jpg) 0 0 no-repeat; text-align: left; margin: 40px auto; min-height: 565px; height: auto !important; height: 565px;}
+
+#main_content {padding: 20px 80px 20px 20px; min-height: 400px;}
+
+#footer {margin: 40px 0 0; padding: 7px; border-top: 1px solid #B4C5C2; font-size: 0.7em; letter-spacing: 1px; text-align: center; line-height: 1.3em;}
+
+.gig_container {margin: 1em 0 2em; line-height: 1.4em; padding: 0 0 0 20px;}
+
+body#sep26 a#link_sep26 {background: url(../images/buttons/icon_sep26-over.gif) 50% 0 no-repeat;}
+body#sep27 a#link_sep27 {background: url(../images/buttons/icon_sep27-over.gif) 50% 0 no-repeat;}
+body#sep28 a#link_sep28 {background: url(../images/buttons/icon_sep28-over.gif) 50% 0 no-repeat;}
+body#amnesty a#link_amnesty {background: url(../images/buttons/icon_amnesty-over.gif) 50% 0 no-repeat;}
+	
+/* @end */
+
+
+/* @group text */
+
+h1 {font-size: 1.3em; letter-spacing: 2px; font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif; font-weight: normal;}
+p {letter-spacing: 1px; color: #F3F3EF; font: 0.8em/1.3em "Lucida Grande", Lucida, Verdana, sans-serif;}
+
+.gig_container h2 {font-size: 1em; margin: 1em 0 0;}
+.gig_container h3 {font-size: 0.8em; letter-spacing: 2px; color: #E6EC9E; margin: 0.5em 0 0;}
+.gig_container strong {color: #e6ec9e;}
+/* @end */
+
+
+
+
+/* @group links */
+a:link, a:visited {color: #7ed1e6; text-decoration: none;}
+a:hover {text-decoration: underline; color: #fafafa;}
+a:active {text-decoration: none;}
+
+
+/* header links */
+#header a {display: block; width: 42px; height: 57px; float: left; text-align: center; margin: 0 10px;}
+#header a:hover {text-decoration: none;}
+#header a span {position: absolute; left: -9000px;}
+a#link_sep26 {background: url(../images/buttons/icon_sep26.gif) 50% 0 no-repeat;}
+a#link_sep27 {background: url(../images/buttons/icon_sep27.gif) 50% 0 no-repeat;}
+a#link_sep28 {background: url(../images/buttons/icon_sep28.gif) 50% 0 no-repeat;}
+a#link_amnesty {background: url(../images/buttons/icon_amnesty.gif) 50% 0 no-repeat;}
+
+a#link_sep26:hover {background: url(../images/buttons/icon_sep26-over.gif) 50% 0 no-repeat;}
+a#link_sep27:hover {background: url(../images/buttons/icon_sep27-over.gif) 50% 0 no-repeat;}
+a#link_sep28:hover {background: url(../images/buttons/icon_sep28-over.gif) 50% 0 no-repeat;}
+a#link_amnesty:hover {background: url(../images/buttons/icon_amnesty-over.gif) 50% 0 no-repeat;}
+
+
+
+
+
+/* @end */
+
+
+
